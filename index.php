@@ -21,7 +21,7 @@
 
         <nav>
             <ul class="nav-links">
-                <li><a class="nav-link" href="index.html">HOME</a></li>
+                <li><a class="nav-link" href="#">HOME</a></li>
                 <li><a class="nav-link" href="https://codepen.io/your-work/?cursor=ZD0wJm89MSZwPTEmdj00NzQwOTk4Nw=="
                         target="_blank">ACTIVITY</a></li>
 
